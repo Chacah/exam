@@ -1,0 +1,15 @@
+From da3329cfda3f24ad8d33fe1041fc45f8f29a9779 Tue, 6 Sep 2011 16:03:33 +0800
+From: Chacah <fulonglin@gmail.com>
+Date: Tue, 6 Sep 2011 16:02:50 +0800
+Subject: [PATCH] add abc
+
+diff --git a/t.html b/t.html
+index 31fec0f..94c2f6d 100644
+--- a/t.html
++++ b/t.html
+@@ -7,4 +7,4 @@
+ }
+ </style>
+ 
+-<div id="t"></div>
++<div id="t">abc</div>
